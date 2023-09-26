@@ -13,6 +13,4 @@ Simple calculator made in java
 * 0.1
   * Initial commit
 
-<div align="center">
-   ![image](https://github.com/uzuhiko/JAVA-CALC/assets/146120199/b7314a05-6a93-4911-8c2c-279d218ab3f4)
-</div>
+![image](https://github.com/uzuhiko/JAVA-CALC/assets/146120199/b06a5f4b-e2cd-423e-89cf-65ad4f874239)
