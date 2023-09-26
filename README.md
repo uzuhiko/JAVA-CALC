@@ -14,5 +14,5 @@ Simple calculator made in java
   * Initial commit
 
 <div align="center">
-   ![image](https://github.com/uzuhiko/JAVA-CALC/assets/146120199/2d27988f-3c77-4ba6-96cd-e12b684f49b9)
+   ![image](https://github.com/uzuhiko/JAVA-CALC/assets/146120199/b7314a05-6a93-4911-8c2c-279d218ab3f4)
 </div>
