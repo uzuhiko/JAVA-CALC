@@ -1,18 +1,18 @@
-<div align="center">
-   ### JAVA-CALC
+### JAVA-CALC
 
-   Java calculator 
+Java calculator 
    
-   ### Description
+### Description
    
-   Simple calculator made in java
+Simple calculator made in java
    
-   ### Version History
+### Version History
    
-   * 0.2
-       * Final commit
-   * 0.1
-       * Initial commit
-   
+* 0.2
+  * Final commit
+* 0.1
+  * Initial commit
+
+<div align="center">
    ![image](https://github.com/uzuhiko/JAVA-CALC/assets/146120199/2d27988f-3c77-4ba6-96cd-e12b684f49b9)
 </div>
